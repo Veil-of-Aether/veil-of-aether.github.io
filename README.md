@@ -24,7 +24,7 @@ This isn't just a game—it's a statement.
 Join us. Build with us. Shape the world.
 
 ## License
-This website is licensed under the [MIT License](LICENSE).
+This website is licensed under the [MIT License](LICENSE). Please adhere to the guidlines outlined here when modifying or redistributing the site.
 
 ## How you can help
 
