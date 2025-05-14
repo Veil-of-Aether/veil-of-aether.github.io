@@ -43,11 +43,6 @@ font-size: 1.2em;
 margin-bottom: 30px;
 }
 
-.mission-statement {
-  font-size: 1.2em;
-  margin-bottom: 30px;
-}
-
-.mission-statement ul {
+.description ul {
   text-align: left;
 }
