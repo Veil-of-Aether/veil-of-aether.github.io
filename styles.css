@@ -38,13 +38,10 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  font-size: 1.2em;
+  margin-bottom: 30px;
 }
 
-.description {
-font-size: 1.2em;
-margin-bottom: 30px;
-}
-
-.description ul {
+.main-content ul {
   text-align: left;
 }
