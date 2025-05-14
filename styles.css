@@ -3,7 +3,7 @@ body {
   font-family: Arial, sans-serif;
 }
 
-.quickLinksRibbon {
+.quick-links-ribbon {
   position: fixed;
   top: 0;
   width: 100%;
@@ -16,7 +16,7 @@ body {
   z-index: 9999;
 }
 
-.quickLinksRibbon a {
+.quick-links-ribbon a {
   color: white;
   text-decoration: none;
   margin: 0 15px;
@@ -41,4 +41,13 @@ body {
 .description {
 font-size: 1.2em;
 margin-bottom: 30px;
+}
+
+.mission-statement {
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+
+.mission-statement ul {
+  text-align: left;
 }
